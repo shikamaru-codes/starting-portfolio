@@ -1,0 +1,25 @@
+body {
+
+  
+  background-color: floralwhite; 
+}
+
+h2{
+    text-decoration: underline overline;
+}
+.ookay{ text-align: right;
+    margin-right: 500px;
+
+}
+
+footer{
+ text-align: left;
+  background-color: azure;
+  font-family: monospace;
+ 
+}
+
+.comingh2{
+    text-decoration: none;
+    color: crimson;
+}
